@@ -1,2 +1,3 @@
 Test merge
 Change after merge -finish in master
+Ne line for remote change
